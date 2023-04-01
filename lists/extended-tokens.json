@@ -1,0 +1,57 @@
+
+{
+    "name": "Fusionx Extended Tokens",
+    "timestamp": "2023-04-01T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://fusionx.finance/logo.png",
+    "keywords": [
+        "fusionx",
+        "extended"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped BIT",
+            "symbol": "WBIT",
+            "address": "0x8734110e5e1dcF439c7F549db740E546fea82d66",
+            "chainId": 5001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0x8734110e5e1dcf439c7f549db740e546fea82d66.png"
+        },
+        {
+            "name": "FusionX",
+            "symbol": "FSX",
+            "address": "0x6dFB16bc471982f19DB32DEE9b6Fb40Db4503cBF",
+            "chainId": 5001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0x6dfb16bc471982f19db32dee9b6fb40db4503cbf.png"
+        },
+        {
+            "name": "Mock USD Tether ",
+            "symbol": "MUSDT",
+            "address": "0xa9b72cCC9968aFeC98A96239B5AA48d828e8D827",
+            "chainId": 5001,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0xa9b72ccc9968afec98a96239b5aa48d828e8d827.png"
+        },
+        {
+            "name": "Mock USD Coin",
+            "symbol": "MUSDC",
+            "address": "0xc92747b1e4Bd5F89BBB66bAE657268a5F4c4850C",
+            "chainId": 5001,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0xc92747b1e4bd5f89bbb66bae657268a5f4c4850c.png"
+        },
+        {
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0xB38E748dbCe79849b8298A1D206C8374EFc16DA7",
+            "chainId": 5001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0xb38e748dbce79849b8298a1d206c8374efc16da7.png"
+        }
+    ]
+}
