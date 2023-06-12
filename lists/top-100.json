@@ -3,7 +3,7 @@
     "timestamp": "2023-04-01T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "logoURI": "https://fusionx.finance/logo.png",
@@ -13,8 +13,8 @@
     ],
     "tokens": [
         {
-            "name": "Wrapped BIT",
-            "symbol": "WBIT",
+            "name": "Wrapped MNT",
+            "symbol": "WMNT",
             "address": "0x8734110e5e1dcF439c7F549db740E546fea82d66",
             "chainId": 5001,
             "decimals": 18,
