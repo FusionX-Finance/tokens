@@ -1,10 +1,9 @@
-
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2023-04-01T00:00:00.000Z",
+    "timestamp": "2023-07-12T00:00:00.000Z",
     "version": {
-        "major": 1,
-        "minor": 1,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "logoURI": "https://fusionx.finance/logo.png",
@@ -13,6 +12,38 @@
         "extended"
     ],
     "tokens": [
+        {
+            "name": "Wrapped MNT",
+            "symbol": "WMNT",
+            "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8.png"
+        },
+        {
+            "name": "USD Tether ",
+            "symbol": "USDT",
+            "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+            "chainId": 5000,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+        },
+        {
+            "name": "Ether",
+            "symbol": "WETH",
+            "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.svg"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+            "chainId": 5000,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.svg"
+        },
         {
             "name": "Wrapped MNT",
             "symbol": "WMNT",
