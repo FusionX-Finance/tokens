@@ -3,7 +3,7 @@
     "timestamp": "2023-07-12T00:01:00.000Z",
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "logoURI": "https://fusionx.finance/logo.png",
@@ -34,7 +34,7 @@
             "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
             "chainId": 5000,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.svg"
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
         },
         {
             "name": "Wrapped BTC",
@@ -42,7 +42,7 @@
             "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
             "chainId": 5000,
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.svg"
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.png"
         },
         {
             "name": "Wrapped MNT",
