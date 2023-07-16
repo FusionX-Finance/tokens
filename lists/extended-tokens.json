@@ -1,9 +1,9 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2023-07-12T00:01:00.000Z",
+    "timestamp": "2023-07-16T00:01:00.000Z",
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "logoURI": "https://fusionx.finance/logo.png",
@@ -43,6 +43,38 @@
             "chainId": 5000,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.png"
+        },
+        {
+            "name": "IONX",
+            "symbol": "IONX",
+            "address": "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x6968f3f16c3e64003f02e121cf0d5ccbf5625a42.png"
+        },
+        {
+            "name": "LUSD Stablecoin",
+            "symbol": "LUSD",
+            "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32.png"
+        },
+        {
+            "name": "PENDLE",
+            "symbol": "PENDLE",
+            "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729.png"
+        },
+        {
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x636d4073738c071326aa70c9e5db7c334beb87be.png"
         },
         {
             "name": "Wrapped MNT",
