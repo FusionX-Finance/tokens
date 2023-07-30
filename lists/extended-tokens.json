@@ -123,6 +123,14 @@
             "chainId": 5001,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5001/0xb38e748dbce79849b8298a1d206c8374efc16da7.png"
+        },
+        {
+            "name": "Mantle Inu",
+            "symbol": "MINU",
+            "address": "0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD",
+            "chainId": 5001,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/0xShinsu/tokens/main/images/5001/0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD.png"
         }
     ]
 }
