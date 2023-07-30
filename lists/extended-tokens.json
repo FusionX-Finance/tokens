@@ -1,9 +1,9 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2023-07-17T00:01:00.000Z",
+    "timestamp": "2023-07-30T00:01:00.000Z",
     "version": {
         "major": 3,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "logoURI": "https://fusionx.finance/logo.png",
@@ -83,6 +83,14 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x636d4073738c071326aa70c9e5db7c334beb87be.png"
+        },
+        {
+            "name": "Mantle Inu",
+            "symbol": "MINU",
+            "address": "0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD.png"
         },
         {
             "name": "Wrapped MNT",
