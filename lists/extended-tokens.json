@@ -1,8 +1,8 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2023-10-11T06:02:00.000Z",
+    "timestamp": "2023-11-08T08:40:00.000Z",
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     },
@@ -27,6 +27,14 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x25356aeca4210ef7553140edb9b8026089e49396.png"
+        },
+        {
+            "name": "Ondo U.S. Dollar Yield",
+            "symbol": "USDY",
+            "address": "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x5be26527e817998a7206475496fde1e68957c5a6.png"
         },
         {
             "name": "USD Tether",
@@ -107,14 +115,6 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD.png"
-        },
-        {
-            "name": "Cashtree Token",
-            "symbol": "CTT",
-            "address": "0x6A3b0eb5b57C9a4F5772fc900dAE427E65f8C1a5",
-            "chainId": 5000,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5.png"
         },
         {
             "name": "KTX Community Token",
