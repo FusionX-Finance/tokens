@@ -1,8 +1,8 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2024-02-19T08:40:00.000Z",
+    "timestamp": "2024-03-08T08:40:00.000Z",
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     },
@@ -35,6 +35,22 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x217b4382a1de262c0fba97c1b8378904b4a25e4d.png"
+        },
+        {
+            "name": "Puff Dragon",
+            "symbol": "PUFF",
+            "address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x26a6b0dcdcfb981362afa56d581e4a7dba3be140.png"
+        },
+        {
+            "name": "Muito Token",
+            "symbol": "MUTO",
+            "address": "0x029d924928888697d3F3d169018d9d98d9f0d6B4",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x029d924928888697d3f3d169018d9d98d9f0d6b4.png"
         },
         {
             "name": "Lendle Protocol Token",
