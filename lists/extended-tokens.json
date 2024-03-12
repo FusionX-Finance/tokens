@@ -1,8 +1,8 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2024-03-08T08:40:00.000Z",
+    "timestamp": "2024-03-12T08:40:00.000Z",
     "version": {
-        "major": 12,
+        "major": 13,
         "minor": 0,
         "patch": 0
     },
@@ -203,6 +203,38 @@
             "chainId": 5001,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5001/0xb38e748dbce79849b8298a1d206c8374efc16da7.png"
+        },
+        {
+            "name": "Wrapped MNT",
+            "symbol": "WMNT",
+            "address": "0xc0eeCFA24E391E4259B7EF17be54Be5139DA1AC7",
+            "chainId": 5003,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5003/0xc0eecfa24e391e4259b7ef17be54be5139da1ac7.png"
+        },        
+        {
+            "name": "Mock USD Tether ",
+            "symbol": "MUSDT",
+            "address": "0xa9b72cCC9968aFeC98A96239B5AA48d828e8D827",
+            "chainId": 5003,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5003/0xa9b72ccc9968afec98a96239b5aa48d828e8d827.png"
+        },
+        {
+            "name": "Mock USD Coin",
+            "symbol": "MUSDC",
+            "address": "0xeA911b76c5681Fd2A46Cf951B320C7e39186f3F0",
+            "chainId": 5003,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5001/0xeA911b76c5681Fd2A46Cf951B320C7e39186f3F0.png"
+        },
+        {
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0xc92747b1e4Bd5F89BBB66bAE657268a5F4c4850C",
+            "chainId": 5003,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5003/0xc92747b1e4bd5f89bbb66bae657268a5f4c4850c.png"
         }
     ]
 }
