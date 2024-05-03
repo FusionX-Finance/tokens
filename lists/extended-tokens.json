@@ -29,6 +29,14 @@
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x94a42083948d86432246ead625b30d49014a4bff.png"
         },
         {
+            "name": "Aurelius USD",
+            "symbol": "aUSD",
+            "address": "0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79.png"
+        },
+        {
             "name": "mShards",
             "symbol": "mShards",
             "address": "0xD7782b99671DD23203eBd4584FC71cf2B3dbB111",
