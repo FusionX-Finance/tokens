@@ -1,8 +1,8 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2024-05-04T11:40:00.000Z",
+    "timestamp": "2024-10-16T11:40:00.000Z",
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 1,
         "patch": 0
     },
@@ -27,6 +27,22 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x94a42083948d86432246ead625b30d49014a4bff.png"
+        },
+        {
+            "name": "MNTL",
+            "symbol": "MNTL",
+            "address": "0x71baC957Ab57247D80f32d10A96cf76989192f38",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x71bac957ab57247d80f32d10a96cf76989192f38.png"
+        },
+        {
+            "name": "Fire Bitcoin",
+            "symbol": "FBTC",
+            "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xc96de26018a54d51c097160568752c4e3bd6c364.png"
         },
         {
             "name": "Aurelius USD",
