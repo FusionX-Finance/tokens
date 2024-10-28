@@ -1,8 +1,8 @@
 {
     "name": "Fusionx Extended Tokens",
-    "timestamp": "2024-10-16T11:40:00.000Z",
+    "timestamp": "2024-10-28T11:40:00.000Z",
     "version": {
-        "major": 17,
+        "major": 18,
         "minor": 1,
         "patch": 0
     },
@@ -19,6 +19,22 @@
             "chainId": 5000,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8.png"
+        },
+        {
+            "name": "cmETH",
+            "symbol": "cmETH",
+            "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xe6829d9a7ee3040e1276fa75293bde931859e8fa.png"
+        },
+        {
+            "name": "COOK",
+            "symbol": "COOK",
+            "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x9f0c013016e8656bc256f948cd4b79ab25c7b94d.png"
         },
         {
             "name": "LOOT Token",
